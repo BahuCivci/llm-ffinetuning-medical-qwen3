@@ -5,7 +5,7 @@ This repository contains a Colab-ready notebook for fine-tuning the `Qwen3` larg
 
 ## 🔍 Project Summary
 
-The goal is to fine-tune the `Qwen3-32B` model on a dataset designed to train clinical reasoning, diagnosis, and treatment planning abilities. We leverage LoRA (Low-Rank Adaptation) to make the fine-tuning process efficient on limited hardware.
+The goal is to fine-tune the `Qwen3-8B` model on a dataset designed to train clinical reasoning, diagnosis, and treatment planning abilities. We leverage LoRA (Low-Rank Adaptation) to make the fine-tuning process efficient on limited hardware.
 
 ## 📁 Contents
 
